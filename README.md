@@ -1,4 +1,4 @@
-# Mini_Project_Subset_Selection_ProblemSubset Selection Problem
+# Mini_Project_Subset_Selection_Problem
 1. Problem Statement:
 Find all the subsets from a set of numbers whose sum is zero.
 Constraint: Subset size must be 5
